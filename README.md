@@ -101,11 +101,3 @@ Youssef Elzahar
 Data Science Roleplay – Sports Wear Group  
 April 2025
 
----
-
-This updated README now includes the following:
-- Cross-validation to ensure robust performance.
-- A pipeline to handle preprocessing and avoid data leakage.
-- Fine-tuning of the models using `GridSearchCV` and `RandomizedSearchCV`.
-
-Let me know if you'd like further modifications!
